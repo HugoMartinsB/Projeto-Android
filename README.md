@@ -1,5 +1,5 @@
 
-# Projeto Mobile + API - Imeplac Hugo Martins
+# Projeto Mobile + API - Imepac Hugo Martins
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
 [![License](https://img.shields.io/badge/licença-Privado-red)]()
