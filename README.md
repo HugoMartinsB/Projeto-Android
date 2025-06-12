@@ -94,10 +94,10 @@ npx expo start
 
 ## 📄 Licença
 
-Este projeto é **privado** e não está autorizado para distribuição sem permissão.
+Este projeto é acadêmico e de licença **privada** e não está autorizado para distribuição sem permissão.
 
 ---
 
 ## 👤 Autor
 
-Desenvolvido por **Hugo Martins** no contexto do Imeplac.
+Desenvolvido por **Hugo Martins** no contexto do Imepac.
